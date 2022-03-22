@@ -1,6 +1,6 @@
 This folder is for the underpriced rental property identification project in DSO 597 class.
 
-\\ We are Group 2: Zheying Tang, Samuel Zhu, Suixin Wang, Feiran Zhang, Bingxin Li, Haowen Rui//
+\\\ We are Group 2: Zheying Tang, Samuel Zhu, Suixin Wang, Feiran Zhang, Bingxin Li, Haowen Rui //
 
 
 File names start with '1-': notebooks for EDA
